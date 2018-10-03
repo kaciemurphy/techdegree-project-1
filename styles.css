@@ -77,6 +77,21 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(10deg);
 }
+
+.goals-image {
+  margin-top: 5px;
+  width: 400px;
+  height: 150px;
+  border: 1px solid black;
+}
+
+.tech-image {
+  margin-top: 5px;
+  width: 400px;
+  height: 150px;
+  border: 1px solid black;
+}
+
 .tag {
   background-color: #efefef;
   color: black;
