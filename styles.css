@@ -82,14 +82,14 @@ header .profile-image:hover {
   margin-top: 5px;
   width: 400px;
   height: 150px;
-  border: 1px solid black;
+  border: 2px solid black;
 }
 
 .tech-image {
   margin-top: 5px;
   width: 400px;
   height: 150px;
-  border: 1px solid black;
+  border: 2px solid black;
 }
 
 .tag {
